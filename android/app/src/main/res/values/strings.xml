@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DogBreedClassifier</string>
+    <string name="title_activity_main">DogBreedClassifier</string>
+    <string name="package_name">joel.ionic.dogbreedclassifier</string>
+    <string name="custom_url_scheme">joel.ionic.dogbreedclassifier</string>
+</resources>
